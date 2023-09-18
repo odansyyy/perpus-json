@@ -1,0 +1,44 @@
+{
+  "anggota": [
+    {
+      "id": 1,
+      "nama": "odan syaharta",
+      "nim": "2331771002",
+      "jurusan": "teknologi informasi"
+    },
+    [
+      {
+        "id": 2,
+        "nama": "okan syahdana",
+        "nim": "2331771001",
+        "jurusan": "teknologi informasi"
+      },
+      {
+        "id": 3,
+        "nama": "bagus",
+        "nim": "2331771003",
+        "jurusan": "teknologi informasi"
+      },
+      {
+        "id": 4,
+        "nama": "affansyah",
+        "nim": "2331771004",
+        "jurusan": "teknologi informasi"
+      }
+    ]
+  ],
+  "buku": [
+    {
+      "id": 1,
+      "judul": "pelangi"
+    },
+    {
+      "id": 2,
+      "judul": "laskar"
+    },
+    {
+      "id": 3,
+      "judul": "naruto"
+    }
+  ]
+}
