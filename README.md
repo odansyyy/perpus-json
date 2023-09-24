@@ -4,7 +4,8 @@ Tugas : Praktikun back end
 database perpustakaan task.json
 
 Menthod get
-![Screenshot (428)](https://github.com/odansyyy/perpus-json/assets/145110140/7bfc91aa-1c52-4116-bf91-3d90dfc1f1a3)
+![Screenshot (428)](https://github.com/odansyyy/perpus-json/assets/145110140/ddc93fac-c6a8-42c5-8d9e-6e49b5d6e22c)
+
 
 
 menthod post
