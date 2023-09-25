@@ -1,4 +1,5 @@
 ### PENJELASAN PENYELESAIAN SOAL 2C PERULANGAN ###
+![output segitiga ](https://github.com/odansyyy/perpus-json/assets/145110140/c7b76b7c-ea86-4ab1-a88f-164b2cc5d61f)
 
 - $n = 5;: Ini adalah inisialisasi variabel $n dengan nilai 5, yang akan menentukan jumlah baris dalam pola segitiga terbalik.
 
@@ -10,6 +11,7 @@
 
 
 ### PENJELASAN PENYELESAIAN SOAL MATRIK DENGAN PERULANGAN ###
+![output matrik](https://github.com/odansyyy/perpus-json/assets/145110140/863efb1e-4a57-4dc6-a3c8-76dfa7853ddc)
 
 1. Deklarasi Matriks Pertama dan Matriks Kedua:
 Dua matriks pertama ($matrix1) dan kedua ($matrix2) dideklarasikan dengan ukuran 5x5 dan 5x3, dan setiap elemen matriks diinisialisasi dengan angka 1 dan 2.
